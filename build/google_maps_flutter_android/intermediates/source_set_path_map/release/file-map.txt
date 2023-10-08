@@ -1,0 +1,16 @@
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-window-1.0.0-beta04-0 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\003a22a5515e1f77f89701a46efbc2ec\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-window-java-1.0.0-beta04-1 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\3c0e35d493ccd3f2bb8b07f96b013b9c\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-play-services-maps-18.1.0-2 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\5f209350cd838b9ce5bc8a0b2b5002ec\transformed\jetified-play-services-maps-18.1.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-annotation-experimental-1.1.0-3 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\717758e51a3aff0b90b2556f8994e808\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-play-services-basement-18.0.0-4 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\88143bab9ea2351b5f0f771799009c99\transformed\jetified-play-services-basement-18.0.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-core-1.6.0-5 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\cf72013d765e0f69e97cd3b9cbb09800\transformed\core-1.6.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-play-services-base-18.0.1-6 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\f253648b0be692c533908993735bbd2e\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-main-7 C:\Users\FATTANI COMPUTER\AppData\Local\Pub\Cache\hosted\pub.dev\google_maps_flutter_android-2.4.15\android\src\main\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-release-8 C:\Users\FATTANI COMPUTER\AppData\Local\Pub\Cache\hosted\pub.dev\google_maps_flutter_android-2.4.15\android\src\release\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-packaged_res-9 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-pngs-10 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\google_maps_flutter_android\generated\res\pngs\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-resValues-11 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\google_maps_flutter_android\generated\res\resValues\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-rs-12 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\google_maps_flutter_android\generated\res\rs\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-mergeReleaseResources-13 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\google_maps_flutter_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlemaps.google_maps_flutter_android-mergeReleaseResources-14 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\google_maps_flutter_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlemaps.google_maps_flutter_android-merged_res-15 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\google_maps_flutter_android\intermediates\merged_res\release

@@ -1,0 +1,15 @@
+com.baseflow.geolocator.geolocator_android-jetified-window-1.0.0-beta04-0 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\003a22a5515e1f77f89701a46efbc2ec\transformed\jetified-window-1.0.0-beta04\res
+com.baseflow.geolocator.geolocator_android-jetified-window-java-1.0.0-beta04-1 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\3c0e35d493ccd3f2bb8b07f96b013b9c\transformed\jetified-window-java-1.0.0-beta04\res
+com.baseflow.geolocator.geolocator_android-jetified-annotation-experimental-1.3.0-2 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\3c4bea41a39e2ef91e4e90c0edbcdf3e\transformed\jetified-annotation-experimental-1.3.0\res
+com.baseflow.geolocator.geolocator_android-core-1.9.0-3 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\5d74e95fb0075f60337058ab4b4b1813\transformed\core-1.9.0\res
+com.baseflow.geolocator.geolocator_android-jetified-play-services-basement-18.1.0-4 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\5eaba1f028ac62aaabee71faac8d9308\transformed\jetified-play-services-basement-18.1.0\res
+com.baseflow.geolocator.geolocator_android-lifecycle-runtime-2.3.1-5 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\e8f5b4d64d791c4a5b5ea0e42f8efd51\transformed\lifecycle-runtime-2.3.1\res
+com.baseflow.geolocator.geolocator_android-jetified-play-services-base-18.1.0-6 C:\Users\FATTANI COMPUTER\.gradle\caches\transforms-3\f4c0500116144bc04cff0b0b27625b15\transformed\jetified-play-services-base-18.1.0\res
+com.baseflow.geolocator.geolocator_android-main-7 C:\Users\FATTANI COMPUTER\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.2.0\android\src\main\res
+com.baseflow.geolocator.geolocator_android-release-8 C:\Users\FATTANI COMPUTER\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.2.0\android\src\release\res
+com.baseflow.geolocator.geolocator_android-pngs-9 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\geolocator_android\generated\res\pngs\release
+com.baseflow.geolocator.geolocator_android-resValues-10 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\geolocator_android\generated\res\resValues\release
+com.baseflow.geolocator.geolocator_android-rs-11 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\geolocator_android\generated\res\rs\release
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-12 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\geolocator_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-13 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\geolocator_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.baseflow.geolocator.geolocator_android-merged_res-14 C:\Users\FATTANI COMPUTER\Desktop\donation_app\build\geolocator_android\intermediates\merged_res\release
