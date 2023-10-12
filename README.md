@@ -1,16 +1,12 @@
 # donation_app
 
-A new Flutter project.
+An Application Dedicated to Helping Humanity
 
-## Getting Started
+## Tools and tech used
 
-This project is a starting point for a Flutter application.
+Flutter
+Firebase
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/aliyah-inshaal/Madad-project/assets/94384217/10a4c2a3-f0dc-4ebb-82bf-17870730f8c5)
+![2](https://github.com/aliyah-inshaal/Madad-project/assets/94384217/ea515b6a-99e4-4d8a-81b0-f4c549176291)
+![1](https://github.com/aliyah-inshaal/Madad-project/assets/94384217/85fa91cd-bd75-4151-a306-cb976e1abceb)
